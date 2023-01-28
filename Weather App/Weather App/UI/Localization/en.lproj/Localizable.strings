@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Weather App
+
+  Created by Dusan Brkic on 18.8.22..
+  
+*/
+
+"homeScreen.title" = "Weather App";
